@@ -172,7 +172,7 @@ rather than isolated notebooks.
 
 <p>
 <a href="https://github.com/arbiahani2-wq">GitHub</a> •
-<a href="https://www.linkedin.com/">LinkedIn</a>
+<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/hani-arbia-5427ab280/)">LinkedIn</a>
 </p>
 
 ---

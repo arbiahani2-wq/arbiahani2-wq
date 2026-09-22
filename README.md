@@ -193,7 +193,7 @@ AI-powered bioinformatics app estimating genetic transmission risk of Alzheimer'
 <div align="center">
 
 [![PFE](https://img.shields.io/badge/🎯_Open_to-Stage_PFE_6_mois-A855F7?style=for-the-badge)](https://github.com/arbiahani2-wq)
-[![Location](https://img.shields.io/badge/📍_Location-France_🇫🇷-0055A4?style=for-the-badge)](https://github.com/arbiahani2-wq)
+[![Location](https://img.shields.io/badge/📍_Location-Morocco_🇲🇦-C1272D?style=for-the-badge)](https://github.com/arbiahani2-wq)
 [![Start](https://img.shields.io/badge/📅_Available-Février_2027-22C55E?style=for-the-badge)](https://github.com/arbiahani2-wq)
 
 **Roles:** `AI Engineer` · `ML Engineer` · `Deep Learning Engineer` · `Computer Vision Engineer`  
@@ -208,8 +208,8 @@ AI-powered bioinformatics app estimating genetic transmission risk of Alzheimer'
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-arbiahani2--wq-181717?style=for-the-badge&logo=github)](https://github.com/arbiahani2-wq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ARBIA_Hani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ARBIA_Hani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hani-arbia-5427ab280/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arbiahani2@gmail.com)
 
 </div>
 

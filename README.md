@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0EA5E9,100:38BDF8&height=220&section=header&text=ARBIA%20Hani&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Computer%20Vision&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0EA5E9,100:38BDF8&height=200&section=header&text=ARBIA%20Hani&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20•%20Machine%20Learning%20•%20Computer%20Vision&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=0EA5E9&center=true&vCenter=true&width=740&lines=🤖+AI+%2F+Machine+Learning+%2F+Deep+Learning+Engineer;🛰️+Computer+Vision+%26+Geospatial+AI+Specialist;🧬+Building+AI+for+Science+%26+the+Real+World;📍+Morocco+🇲🇦+•+Seeking+PFE+Internship+in+France+🇫🇷)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=740&lines=%F0%9F%A4%96+AI+%2F+Machine+Learning+%2F+Deep+Learning+Engineer;%F0%9F%9B%B0%EF%B8%8F+Computer+Vision+%26+Geospatial+AI+Specialist;%F0%9F%A7%AC+Building+AI+for+Science+%26+the+Real+World;%F0%9F%93%8D+Morocco+%F0%9F%87%B2%F0%9F%87%A6+•+Seeking+PFE+Internship+in+France+%F0%9F%87%AB%F0%9F%87%B7)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ ABOUT ═══════════════════════ -->
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## 👋 &nbsp;About Me
 
 ```python
 class HaniaArbi:
@@ -18,33 +16,27 @@ class HaniaArbi:
 
     def __init__(self):
         self.name       = "ARBIA Hani"
-        self.age        = 24
         self.education  = "Master d'Excellence en Intelligence Artificielle"
         self.university = "Faculté des Sciences Ben M'Sik — Casablanca"
         self.year       = "M1 (2025–2026) → M2 (2026–2027)"
 
-        self.expertise  = [
-            "Machine Learning · Deep Learning",
+        self.focus = [
             "Computer Vision — YOLOv8, DeepLabV3+, U-Net, SegFormer",
             "Geospatial AI — Sentinel-1 SAR, Remote Sensing",
             "Generative AI — LLM, RAG, NLP, Embeddings",
-            "Data Science · Data Engineering · Big Data",
             "MLOps — Docker, Kubernetes, CI/CD",
-            "Full-Stack Web — React, Next.js, Node.js, Laravel"
         ]
 
-    def seeking(self):
+    def currently_seeking(self):
         return {
             "type":     "Stage PFE — 6 mois",
             "location": "France 🇫🇷",
             "start":    "Février 2027",
-            "roles":    ["AI Engineer", "ML Engineer", "CV Engineer", "Data Scientist"]
+            "roles":    ["AI Engineer", "ML Engineer", "CV Engineer", "Data Scientist"],
         }
 ```
 
 <br/>
-
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
 
 ## 🚀 &nbsp;Featured Projects
 
@@ -101,8 +93,6 @@ AI bioinformatics app estimating Alzheimer's genetic transmission risk via Mende
 
 <br/>
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-
 ## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
@@ -110,8 +100,6 @@ AI bioinformatics app estimating Alzheimer's genetic transmission risk via Mende
 #### 🤖 &nbsp;AI · ML · Deep Learning · Computer Vision
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark&perline=12" /></a>
-
-<br/>
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -129,8 +117,6 @@ AI bioinformatics app estimating Alzheimer's genetic transmission risk via Mende
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,flask,laravel&theme=dark&perline=12" /></a>
 
-<br/>
-
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
@@ -140,8 +126,6 @@ AI bioinformatics app estimating Alzheimer's genetic transmission risk via Mende
 #### ☁️ &nbsp;DevOps · MLOps · Cloud
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,vercel&theme=dark&perline=12" /></a>
-
-<br/>
 
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -153,8 +137,6 @@ AI bioinformatics app estimating Alzheimer's genetic transmission risk via Mende
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgresql,mysql&theme=dark&perline=12" /></a>
 
-<br/>
-
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
 ![HBase](https://img.shields.io/badge/HBase-C72E49?style=flat-square)
@@ -162,8 +144,6 @@ AI bioinformatics app estimating Alzheimer's genetic transmission risk via Mende
 </div>
 
 <br/>
-
-<!-- ═══════════════════════ EXPERTISE ═══════════════════════ -->
 
 ## 🎯 &nbsp;Domains of Expertise
 
@@ -184,62 +164,51 @@ AI bioinformatics app estimating Alzheimer's genetic transmission risk via Mende
 
 <br/>
 
-<!-- ═══════════════════════ EDUCATION ═══════════════════════ -->
-
-## 🎓 &nbsp;Education
+## 🎓 &nbsp;Education & Path
 
 <div align="center">
 
-```
-   ┌──────────────────────────────────────────────────────────────┐
-   │  📘  BTS Développement Informatique — Fès (Mention Bien)    │
-   └──────────────────────┬───────────────────────────────────────┘
-                          ▼
-   ┌──────────────────────────────────────────────────────────────┐
-   │  📗  Licence d'Excellence en IA — Ben M'Sik, Casablanca     │
-   └──────────────────────┬───────────────────────────────────────┘
-                          ▼
-   ┌──────────────────────────────────────────────────────────────┐
-   │  📙  Master d'Excellence en IA — M1 (25-26) · M2 (26-27)   │
-   └──────────────────────┬───────────────────────────────────────┘
-                          ▼
-   ┌──────────────────────────────────────────────────────────────┐
-   │  🇫🇷  Stage PFE 6 mois — France — Février 2027              │
-   └──────────────────────┬───────────────────────────────────────┘
-                          ▼
-   ┌──────────────────────────────────────────────────────────────┐
-   │  🚀  AI Engineer / ML Engineer / CV Engineer / Data Sci     │
-   └──────────────────────────────────────────────────────────────┘
-```
+📘 &nbsp;**BTS Développement Informatique** — Fès *(Mention Bien)*
+
+⬇
+
+📗 &nbsp;**Licence d'Excellence en IA** — Ben M'Sik, Casablanca
+
+⬇
+
+📙 &nbsp;**Master d'Excellence en IA** — M1 (2025–26) → M2 (2026–27)
+
+⬇
+
+🇫🇷 &nbsp;**Stage PFE** (6 mois) — France, dès Février 2027
+
+⬇
+
+🚀 &nbsp;**AI / ML / CV Engineer** · Data Scientist
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ SEEKING ═══════════════════════ -->
-
 ## 💼 &nbsp;Open to Opportunities
 
 <div align="center">
 
-<a href="https://github.com/arbiahani2-wq"><img src="https://img.shields.io/badge/🎯_Stage_PFE-6_mois-0EA5E9?style=for-the-badge"/></a>
-<a href="https://github.com/arbiahani2-wq"><img src="https://img.shields.io/badge/📍_Based_in-Morocco_🇲🇦-C1272D?style=for-the-badge"/></a>
-<a href="https://github.com/arbiahani2-wq"><img src="https://img.shields.io/badge/🇫🇷_Target-France-0055A4?style=for-the-badge"/></a>
-<a href="https://github.com/arbiahani2-wq"><img src="https://img.shields.io/badge/📅_From-Février_2027-22C55E?style=for-the-badge"/></a>
+![Stage PFE](https://img.shields.io/badge/🎯_Stage_PFE-6_mois-0EA5E9?style=for-the-badge)
+![Based in Morocco](https://img.shields.io/badge/📍_Based_in-Morocco_🇲🇦-C1272D?style=for-the-badge)
+![Target France](https://img.shields.io/badge/🇫🇷_Target-France-0055A4?style=for-the-badge)
+![From Février 2027](https://img.shields.io/badge/📅_From-Février_2027-22C55E?style=for-the-badge)
 
 <br/><br/>
 
 **Targeting roles in:**
 
 `AI Engineer` · `ML Engineer` · `Deep Learning Engineer` · `Computer Vision Engineer`
-
 `Data Scientist` · `MLOps Engineer` · `Generative AI Engineer` · `NLP / LLM Engineer`
 
 </div>
 
 <br/>
-
-<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
 
 ## 📬 &nbsp;Let's Connect
 
@@ -253,12 +222,8 @@ AI bioinformatics app estimating Alzheimer's genetic transmission risk via Mende
 
 <br/>
 
-<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0EA5E9,100:38BDF8&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0EA5E9,100:38BDF8&height=110&section=footer" width="100%"/>
 
 <div align="center">
-
-<sub>*"From satellite pixels to genomic sequences — building AI that solves real-world problems."*</sub>
-
+<sub><em>"From satellite pixels to genomic sequences — building AI that solves real-world problems."</em></sub>
 </div>
